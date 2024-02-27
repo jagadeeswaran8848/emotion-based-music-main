@@ -1,0 +1,10 @@
+
+streamlit==1.31.1
+streamlit-webrtc==0.47.1
+
+opencv-python==4.9.0.80
+
+mediapipe==0.10.10
+
+
+keras==3.0.5
