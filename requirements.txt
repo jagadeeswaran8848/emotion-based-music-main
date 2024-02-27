@@ -1,2 +1,2 @@
-streamlit==0.100.0
-streamlit-webrtc==0.25.0
+streamlit
+streamlit-webrtc
